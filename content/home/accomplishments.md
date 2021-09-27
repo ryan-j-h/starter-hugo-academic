@@ -30,15 +30,15 @@ item:
   organization: Teaching Assistant to Professor Thomas Nechyba
   organization_url: 
   title: Intermediate Microeconomics I
-  url: ""
+  url: "https://econ.duke.edu/courses/intermediate-microeconomics-i"
 - certificate_url: 
   date_end: "2021-05-01"
   date_start: "2021-01-02"
   description: 
   organization: Teaching Assistant to Professor Jason Xu
-  organization_url: https://www.edx.org
+  organization_url: 
   title: Mathematical Statistics
-  url: ""
+  url: "https://math.duke.edu/courses/theory-and-methods-statistical-learning-and-inference-0"
 - certificate_url: 
   date_end: "2022-05-01"
   date_start: "2021-01-01"
@@ -46,15 +46,15 @@ item:
   organization: Teaching Assistant to Professors Curtis Taylor and Peter Arcidiacono
   organization_url: 
   title: Intermediate Microeconomics II
-  url: ""
- - certificate_url: 
+  url: "https://econ.duke.edu/courses/intermediate-microeconomics-ii"
+- certificate_url: 
   date_end: "2020-08-01"
   date_start: "2020-12-01"
   description: 
   organization: Grader for Professor Clark Bray
   organization_url: 
   title: Multivariable Calculus
-  url: ""
+  url: "https://math.duke.edu/courses/multivariable-calculus-7"
 - certificate_url: 
   date_end: "2021-05-01"
   date_start: "2021-01-01"
@@ -62,7 +62,7 @@ item:
   organization: Grader for Professor Clark Bray
   organization_url: 
   title: Linear Algebra and Differential Equations
-  url: ""
+  url: "https://math.duke.edu/courses/linear-algebra-and-differential-equations"
 
 design:
   columns: '2' 
