@@ -5,17 +5,25 @@ weight: 71
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
+  - description:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description:
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Stata
+  - description: 
+    icon: calculator
     icon_pack: fas
-    name: Photography
+    name: MATLAB
+  - description: 
+    icon: chart-bar
+    icon_pack: fas
+    name: SAS
+  - description: 
+    icon: python
+    icon_pack: fab
+    name: Python
 widget_id: skills
 ---
