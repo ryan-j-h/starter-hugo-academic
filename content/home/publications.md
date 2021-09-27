@@ -2,7 +2,7 @@
 widget: pages
 widget_id: research
 headless: true
-weight: 17
+weight: 25
 title: Work in Progress
 subtitle: ""
 content:
