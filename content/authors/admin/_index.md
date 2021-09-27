@@ -1,6 +1,7 @@
 ---
 title: Ryan Hastings
 role: Undergraduate Student
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Applied Microeconomics
@@ -24,13 +25,13 @@ education:
   courses:
     - course: BSc in Economics
       institution: Duke University
-      year: 2012
+      year: 2021
     - course: BSc in Statistical Science
       institution: Duke University
-      year: 2009
+      year: 2021
     - course: Minor in Mathematics
       institution: Duke University
-      year: 2008
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
