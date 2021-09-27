@@ -16,3 +16,4 @@ design:
   view: 2
   flip_alt_rows: false
 ---
+Here I compile informal research ideas that I may aim to pursue in the future.
