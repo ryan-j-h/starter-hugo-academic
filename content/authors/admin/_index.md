@@ -25,10 +25,10 @@ education:
   courses:
     - course: BSc in Economics
       institution: Duke University
-      year: 2021
+      year: 2022
     - course: BSc in Statistical Science
       institution: Duke University
-      year: 2021
+      year: 2022
     - course: Minor in Mathematics
       institution: Duke University
       year: 2022
