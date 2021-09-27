@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Teaching'
 subtitle:
 
 # Date format
@@ -40,12 +40,28 @@ item:
   title: Mathematical Statistics
   url: ""
 - certificate_url: 
-  date_end: ""
+  date_end: "2022-05-01"
   date_start: "2021-01-01"
   description: 
   organization: Teaching Assistant to Professors Curtis Taylor and Peter Arcidiacono
   organization_url: 
   title: Intermediate Microeconomics II
+  url: ""
+ - certificate_url: 
+  date_end: "2020-08-01"
+  date_start: "2020-12-01"
+  description: 
+  organization: Grader for Professor Clark Bray
+  organization_url: 
+  title: Multivariable Calculus
+  url: ""
+- certificate_url: 
+  date_end: "2021-05-01"
+  date_start: "2021-01-01"
+  description: 
+  organization: Grader for Professor Clark Bray
+  organization_url: 
+  title: Linear Algebra and Differential Equations
   url: ""
 
 design:
