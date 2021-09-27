@@ -1,7 +1,7 @@
 ---
 title: Ryan Hastings
-role: Undergraduate at Duke Economics
-bio: My research interests include housing and education policy.
+role: Undergraduate Student
+bio: ""
 interests:
   - Applied Microeconomics
   - Public Economics
@@ -22,22 +22,17 @@ organizations:
     url: https://econ.duke.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: BSc in Economics
+      institution: Duke University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in Statistical Science
+      institution: Duke University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Minor in Mathematics
+      institution: Duke University
       year: 2008
 email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Ryan Hastings is an undergraduate student in Duke University's Class of 2022 studying economics, statistical science, and mathematics. He aims to use applied microeconomics to learn about how people's physical and social environments influence their lives and livelihoods. He has a broad range of interests including housing, education, and social capital.
