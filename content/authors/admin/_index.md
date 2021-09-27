@@ -1,8 +1,7 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Ryan Hastings
+role: Undergraduate at Duke Economics
+bio: My research interests include housing and education policy.
 interests:
   - Applied Microeconomics
   - Public Economics
